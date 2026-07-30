@@ -1,6 +1,3 @@
-এখানে আপনার প্রদত্ত টেক্সটটির জন্য সুন্দরভাবে সাজানো Markdown (.md) কোড দেওয়া হলো। আপনি এটি কপি করে যেকোনো Markdown এডিটরে (যেমন: GitHub, VS Code) ব্যবহার করতে পারবেন।
-
-```markdown
 # Javascript Problem Solving Assignment
 ## Assignment 2
 
